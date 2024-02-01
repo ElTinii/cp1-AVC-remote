@@ -1,1 +1,1 @@
-# Cas Practic 1 - AVC
+# Cas Practic 1 - Alex Vazquez
