@@ -1,0 +1,6 @@
+<html>
+<body>
+Benvinguts a la web AVC
+</body>
+</html>
+
